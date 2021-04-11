@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* com.ivan4usa.roulette
+web: java -war target/russian-roulette.war
