@@ -46,7 +46,7 @@
             <div class="container">
                 <div class="d-flex flex-column text-center mx-auto pt-3 home-main">
                     <h2 class="text-warning mb-5">Choose your characters</h2>
-                    <form action="/russian-roulette/loading" method="post">
+                    <form action="/loading" method="post">
                         <div class="mb-3 row">
                             <label for="player1" class="col-12 col-sm-2 col-form-label text-white">Player 1: </label>
                             <div class="col-8 col-sm-7">
