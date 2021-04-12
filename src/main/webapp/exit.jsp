@@ -17,7 +17,7 @@
                     <p class="text-white m-0 p-1">It looks like you are a kid!</p>
                     <p class="text-white m-0 p-1">Go back to school and study well!</p>
                     <div class="d-flex mx-auto my-3">
-                        <a class="btn btn-outline-warning px-5 mx-2" href="/russian-roulette/">Understand</a>
+                        <a class="btn btn-outline-warning px-5 mx-2" href="/">Understand</a>
                     </div>
                 </div>
             </div>

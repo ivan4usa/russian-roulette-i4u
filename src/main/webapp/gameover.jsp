@@ -16,7 +16,7 @@
                     <h1 class="text-warning m-3">${currentPlayer.getName()}</h1>
                     <p class="text-white m-0">tragically leaves the game</p>
                     <div class="d-flex mx-auto my-3">
-                        <a class="btn btn-outline-warning px-5 mx-2" href="/russian-roulette/">New Game</a>
+                        <a class="btn btn-outline-warning px-5 mx-2" href="/">New Game</a>
                     </div>
                 </div>
             </div>

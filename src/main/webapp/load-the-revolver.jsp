@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="d-flex flex-column text-center mx-auto pt-3 home-main">
                     <h2 class="text-warning mb-3">Load the revolver</h2>
-                    <form action="/russian-roulette/shot" method="post">
+                    <form action="/shot" method="post">
                         <div class="load-block">
                             <div class="load-row">
                                 <div class="bullet-1">

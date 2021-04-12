@@ -17,7 +17,7 @@
                     <h2 class="text-warning">${currentPlayer.getName()},</h2>
                     <p class="text-white m-0">now it's your time to shot! Don't panic!</p>
                     <div class="d-flex mx-auto my-3">
-                        <form action="/russian-roulette/try" method="post">
+                        <form action="/try" method="post">
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                 	 viewBox="0 0 512 512" class="svg-bullet" xml:space="preserve">
                                 <rect x="47.67" y="184.847" style="fill:#FF9A00;" width="77.857" height="141.67"/>
